@@ -1,4 +1,4 @@
-package E1Locator;
+package e1Locator;
 
 import org.openqa.selenium.By;
 import util.BrowserReader;
